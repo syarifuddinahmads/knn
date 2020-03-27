@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="922b00b8-3d28-4983-a267-fd73e639bf17" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="KNN" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZXTCCRynNcdiQd0U6DsRrkzmwm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="922b00b8-3d28-4983-a267-fd73e639bf17" name="Default Changelist" comment="" />
+      <created>1584984308490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584984308490</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584984547868">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="141" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1584984547868" />
+    <state x="439" y="202" width="478" height="386" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585161185486">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="439" y="202" width="478" height="386" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.741@0.27.1366.741" timestamp="1585161185486" />
+    <state x="376" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1584984333743">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="376" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1584984333743" />
+    <state x="347" y="44" width="670" height="676" key="search.everywhere.popup" timestamp="1585146025137">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="347" y="44" width="670" height="676" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1585146025137" />
+  </component>
+</project>
